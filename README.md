@@ -3,7 +3,7 @@
 ### Introduction
 This project implements obstacle avoidance for a **Kuka robotic arm** using the **Artificial Potential Field (APF) method**. The simulation is conducted in **PyBullet**, and point cloud data is processed using **Open3D**.
 <div align="center">
-    <img src="pic/F3_Dog_Demo.png" alt="F3_Dog_FrontCover" width="200px" height="200px">
+    <img src="image/image.png" alt="FrontCover" width="350px" height="280px">
 </div>
 
 ### Features
