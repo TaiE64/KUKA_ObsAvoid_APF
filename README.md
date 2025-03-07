@@ -1,4 +1,4 @@
-## Kuka Robotic Arm's Obstacle Avoidance by Artificial Potential Field
+## Path Planning and Obstacle Avoidance for Kuka Robotic Arm using Artificial Potential Field
 
 ### Introduction
 This project implements obstacle avoidance for a **Kuka robotic arm** using the **Artificial Potential Field (APF) method**. The simulation is conducted in **PyBullet**, and point cloud data is processed using **Open3D**.
